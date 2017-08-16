@@ -1,0 +1,16 @@
+######################################
+#             L2jHellas              #
+######################################
+#==================#
+#    Hitman Event  #
+#==================#
+# Enable Hitman Event.
+# Default: False
+EnableHitmanEvent = True
+
+# Hitmans take karma?
+# Default: True
+HitmansTakekarma = True
+
+# 57 = Adena
+HitMansRewardId = 57

@@ -1,0 +1,22 @@
+######################################
+#             L2jHellas              #
+######################################
+#==================#
+#  Raidboss Event  #
+#==================#
+# Enable Raid Engines
+RaidEnginesEnabled = False
+
+# Max number of raid events taking place at the same time 
+# The number has to be equal or smaller than the number of spawns
+# defined in the table: raid_event_spawnlist !?!
+RaidMaxNumEvents = 2
+
+# Maximum Fighting time in minutes.
+RaidSystemFightTime = 60
+
+# Give Buffs when Event Start !??
+RaidGiveBuffs = True
+
+# Resurrect Player upon death automatically !??
+RaidResurrectPlayer = True

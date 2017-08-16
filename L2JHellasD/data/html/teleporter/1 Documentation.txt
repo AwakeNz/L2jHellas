@@ -1,0 +1,31 @@
+You can add the following restrictions in the teleporter Npc
+The restrictions are defined in data/teleports/all-teleports.xml (by default)
+you can add "data/teleports/custom/your-own-custom-teleport-name.xml"
+
+Restrictions may be:
+------------ For minimum Level
+for NPC-ID-min-level.htm
+example: 33000-min-level.htm
+
+Inside html can be replaced:
+%npcname%
+%playername%
+%minLevel%
+
+------------ For maximum Level
+for NPC-ID-max-level.htm
+example: 33000-max-level.htm
+
+Inside html can be replaced:
+%npcname%
+%playername%
+%maxLevel%
+
+----------- For GM only teleports
+for NPC-ID-gmonly.htm
+example: 33000-gmonly.htm
+
+Inside html can be replaced:
+%npcname%
+%playername%
+-----------
